@@ -10,9 +10,9 @@ location: "Pilani, Rajasthan"
 
 <!--This is a description of a teaching experience. You can use markdown like any other post.-->
 
-Course designer: Vinti Agarwal
+**Course designer**: Vinti Agarwal
 
-Time: TThS 11-11:50am
+**Time**: TThS 11-11:50am
 
 
 Do You Know?
