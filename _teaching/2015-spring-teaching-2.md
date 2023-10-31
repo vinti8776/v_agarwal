@@ -36,9 +36,27 @@ is every two lectures followed by a small programming exercise, sometimes with
 missing lines of code type fun quiz. Coding enthusiasts can take this opportunity to test
 their skills and earn scores in the easiest way.
 
+Unique features of the course
+======
+1. Open class discussion once in a month with faculty and peers.
+2. Peers feedback on Quiz or assignment
+3. Learning with examples and coding
+
+Who should take this course?
+======
+Anyone who wish to learn about
+- state-of-the-art graph based machine learning algorithms and deep learning
+algorithms.
+- Implementation of basic graph algorithms (e.g. pagerank, spectral clustering,
+laplacian etc) from scratch
+- Handling of unstructured datasets originates from multiple sources and their
+transformation into graphs (Case studies include social and medical data)
+- Working details of graph based Neural networks architectures to solve
+classification task
 
 
-Some popular questions you may have in your mind
+
+<!--Some popular questions you may have in your mind
 ======
 - Why is it a 4 credit course?
 
@@ -69,6 +87,6 @@ proficiency is expected?
 Preferably Python. But there is a flexibility to choose any other programming language also. If
 you possess the skill to play with arrays and matrices, and basic operations on them would be
 good to start with. Working with some library packages e.g. networkx, scipy etc. can be learned
-as the course progresses.
+as the course progresses.-->
 
 
