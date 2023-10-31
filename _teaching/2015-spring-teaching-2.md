@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "CS F426: Graph Mining (Fall 2023,BITS Pilani)"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "BITS Pilani, CSIS"
+date: 2023-10-031
+location: "Pilani, Rajasthan"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
