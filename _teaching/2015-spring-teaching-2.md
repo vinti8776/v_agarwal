@@ -1,7 +1,7 @@
 ---
 title: "CS F426: Graph Mining (Fall 2023,BITS Pilani)"
 collection: teaching
-type: "Undergraduate/Graduate Course"
+type: "Undergraduate/Post-Graduate Course"
 permalink: /teaching/graph-mining
 venue: "BITS Pilani, CSIS"
 date: 2023-10-31
@@ -25,6 +25,17 @@ To know more, I recommend to browse:
 3. [https://developers.facebook.com/docs/graph-api/](https://developers.facebook.com/docs/graph-api/)
 4. [https://economicgraph.linkedin.com/](https://economicgraph.linkedin.com/)
 5. [https://ai-med.io/literature/graph-based-deep-learning-for-medical-diagnosis-and-analysis/](https://ai-med.io/literature/graph-based-deep-learning-for-medical-diagnosis-and-analysis/)
+
+CS426@Pilani (First time introduced in Fall 2021)
+======
+Graph mining CSF426 was introduced for the first time at Pilani campus in the fall 2021
+semester and has been taught twice till May 2023. It was liked by previous batches
+primarily not because it has tremendous applications in the data science domain, but
+due to the learning style with examples and coding exercise. The fun part of the course
+is every two lectures followed by a small programming exercise, sometimes with
+missing lines of code type fun quiz. Coding enthusiasts can take this opportunity to test
+their skills and earn scores in the easiest way.
+
 
 
 Some popular questions you may have in your mind
