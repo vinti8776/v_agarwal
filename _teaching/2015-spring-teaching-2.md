@@ -44,15 +44,14 @@ Unique features of the course
 
 Who should take this course?
 ======
-Anyone who wish to learn about
+Anyone who wishes to learn:
 - state-of-the-art graph based machine learning algorithms and deep learning
 algorithms.
-- Implementation of basic graph algorithms (e.g. pagerank, spectral clustering,
+- Python implementation of basic graph algorithms (e.g. pagerank, spectral clustering,
 laplacian etc) from scratch
-- Handling of unstructured datasets originates from multiple sources and their
+- Handling of unstructured datasets originated from multiple sources and their
 transformation into graphs (Case studies include social and medical data)
-- Working details of graph based Neural networks architectures to solve
-classification task
+- Working details of graph neural network architectures and its application in prediction and classification tasks
 
 
 
