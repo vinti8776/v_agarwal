@@ -2,9 +2,9 @@
 title: "CS F426: Graph Mining (Fall 2023,BITS Pilani)"
 collection: teaching
 type: "Undergraduate Course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/graph-mining
 venue: "BITS Pilani, CSIS"
-date: 2023-10-031
+date: 2023-10-31
 location: "Pilani, Rajasthan"
 ---
 
