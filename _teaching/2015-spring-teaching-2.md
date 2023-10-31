@@ -10,6 +10,11 @@ location: "Pilani, Rajasthan"
 
 <!--This is a description of a teaching experience. You can use markdown like any other post.-->
 
+Course designer: Vinti Agarwal
+
+Time: TThS 11-11:50am
+
+
 Do You Know?
 ======
 - Google Maps uses Graphs to find the shortest route between point A and B.
