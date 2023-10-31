@@ -19,11 +19,12 @@ reviewed journals with 10+ peer-reviewed publications and teaches a postgraduate
 Research Interests and applications
 ======
 1. As a co-principal investigator of MRFF project from CSIRO, Australia, she, along with her team,
-successfully developed a web application CoviRx (www.covirx.org), curating a database of 7,817 FDA
+successfully developed a web application [CoviRx](www.covirx.org), curating a database of 7,817 FDA
 and TGI approved compounds, which lists potential drug candidates for COVID-19 repurposing
-applying eight filters to assess the attributes required for the drug to be safe and effective. Media
-news: https://www.nature.com/articles/d44151-022-00115-4
-2. Her recent work “Western Australia Transforming Community Health (WATCH)” focuses on mining
+applying eight filters to assess the attributes required for the drug to be safe and effective.
+
+[Media news](https://www.nature.com/articles/d44151-022-00115-4)
+3. Her recent work “Western Australia Transforming Community Health (WATCH)” focuses on mining
 non-identifiable socio-economic determinants from multiple publicly accessible resources and
 developing algorithms inspired by graph theory and machine learning to transform community health
 in Western Australia by understanding unmet needs of different populations and their
