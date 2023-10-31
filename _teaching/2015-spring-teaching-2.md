@@ -20,11 +20,11 @@ Do You Know?
 
 To know more, I recommend to browse:
 ======
-1. [](https://gm-neurips-2020.github.io/)
-2. [](https://research.google/teams/graph-mining/)
-3. [](https://developers.facebook.com/docs/graph-api/)
-4. [](https://economicgraph.linkedin.com/)
-5. [](https://ai-med.io/literature/graph-based-deep-learning-for-medical-diagnosis-and-analysis/)
+1. [https://gm-neurips-2020.github.io/](https://gm-neurips-2020.github.io/)
+2. [https://research.google/teams/graph-mining/](https://research.google/teams/graph-mining/)
+3. [https://developers.facebook.com/docs/graph-api/](https://developers.facebook.com/docs/graph-api/)
+4. [https://economicgraph.linkedin.com/](https://economicgraph.linkedin.com/)
+5. [https://ai-med.io/literature/graph-based-deep-learning-for-medical-diagnosis-and-analysis/](https://ai-med.io/literature/graph-based-deep-learning-for-medical-diagnosis-and-analysis/)
 
 
 Some popular questions you may have in your mind
