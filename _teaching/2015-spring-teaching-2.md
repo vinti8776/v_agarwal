@@ -61,6 +61,9 @@ transformation into graphs (Case studies include social and medical data)
 [Your Must Know Queries Unraveled](https://vinti8776.github.io/v_agarwal//teaching/graph-mining/faqs)
 ======
 
+[Previous Year Question Papers](https://vinti8776.github.io/v_agarwal//teaching/graph-mining/pyqs)
+======
+
 
 
 <!--Some popular questions you may have in your mind
