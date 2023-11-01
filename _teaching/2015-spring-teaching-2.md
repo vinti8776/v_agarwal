@@ -58,6 +58,9 @@ laplacian etc) from scratch
 transformation into graphs (Case studies include social and medical data)
 - Working details of graph neural network architectures and its application in prediction and classification tasks
 
+[Your Must Know Queries Unraveled](https://vinti8776.github.io/v_agarwal//teaching/graph-mining/faqs)
+======
+
 
 
 <!--Some popular questions you may have in your mind
