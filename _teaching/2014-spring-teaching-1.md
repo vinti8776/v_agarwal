@@ -7,12 +7,3 @@ venue: "BITS Pilani, CSIS"
 date: 2024-01-01
 location: "Pilani, Rajasthan"
 ---
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
