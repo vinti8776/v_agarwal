@@ -20,7 +20,7 @@ Reserach Interests
 ======
 1. Develop sustainable semi-supervised/supervised learning and deep learning techniques in limited labeled-data settings. Applications in text analytics/image analytics
 
-2. Knowledge graph construction from multimodal data to learn complex relationships using graph theory for predicting future trends. Application in COVID-19 Drug repurposing 
+2. Knowledge graph construction from multimodal data to learn complex relationships using graph theory for predicting future trends. Application in COVID-19 Drug repurposing, Early detection of interventions needed in health policies to improve community health and lifestyle
 
 Recent News
 ======
