@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Vinti Agarwal"
-  avatar           : "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=gCXVMHQAAAAJ&citpid=2"
+  avatar           : "./images/v_profile.jpg"
   bio              : "Assistant Professor at BITS Pilani, Department of Computer Science and Information Systems"
   location         : "Pilani, Rajasthan"
   employer         :
