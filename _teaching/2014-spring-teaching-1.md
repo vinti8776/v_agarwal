@@ -7,3 +7,5 @@ venue: "BITS Pilani, CSIS"
 date: 2024-01-01
 location: "Pilani, Rajasthan"
 ---
+
+Lecture content can be found [here](https://vinti8776.github.io/information-retrieval/)
