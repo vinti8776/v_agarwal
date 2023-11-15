@@ -16,11 +16,26 @@ learning for predictions or discovering new patterns in data coming from a varie
 networks, drug repurposing, social determinants of health (SDH), etc. She has published widely in peer-
 reviewed journals with 10+ peer-reviewed publications and teaches a postgraduate course on graph mining.
 
-Reserach Interests
+Research Domain
 ======
-1. Develop sustainable semi-supervised/supervised learning and deep learning techniques in limited labeled-data settings. Applications in text analytics/image analytics
+- Graph-based semi-supervised learning
+- Algorithm designs in limited labelled-data settings
+- Building knowledge graphs from multimodal data(image,text,speech)
+- Predictions by learning multi-relationships using graph spectral theory and graph-neural networks
 
-2. Knowledge graph construction from multimodal data to learn complex relationships using graph theory for predicting future trends. Application in COVID-19 Drug repurposing, Early detection of interventions needed in health policies to improve community health and lifestyle
+
+Applications
+======
+- COVID-19 Drug Purposing
+- Medical Image Analysis
+- Text Classification
+- Design of community health policy at scale
+
+Achievements
+======
+- Co-principal investigator of MRFF project from CSIRO, Australia.
+- Developed a website [CoviRx](www.covirx.org), curating a database of 7,817 FDA and TGI approved compounds.
+- Published articles in MDPI Data, PLOS One, Int J of Mol Sci., IEEE Big Data, IEEE ISBI in past 2 years.
 
 Recent News
 ======
@@ -33,7 +48,7 @@ applying eight filters to assess the attributes required for the drug to be safe
 non-identifiable socio-economic determinants from publicly accessible resources and
 developing algorithms inspired by graph theory and machine learning to transform community health
 in Western Australia by understanding unmet needs of different populations and their
-interconnectedness.
+interconnectedness. 
 
 <!--Getting started
 ======
