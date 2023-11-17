@@ -30,7 +30,7 @@ Applications
 - COVID-19 Drug repurposing
 ![image](../images/coviddrug.png)
 - Social health and Text analysis
-![image](../images/social.jpg)
+![image](../images/social.png)
 - Medical Imaging
 ![image](../images/medical.jpg)
 
