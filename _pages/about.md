@@ -42,7 +42,7 @@ Achievements
 - Published articles in MDPI Data, PLOS One, Int J of Mol Sci., IEEE Big Data, IEEE ISBI in past 2 years.
 - Recently secured funding of 6.95L for WATCH pilot project from Department of Health Western Australia (Aug 2023- July 2024)
   <br />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Media news]<br />(https://www.nature.com/articles/d44151-022-00115-4)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Media news](https://www.nature.com/articles/d44151-022-00115-4)<br />
   <img src="https://vinti8776.github.io/v_agarwal/images/cover.png" style="width:40%;" >
   <br />
   
