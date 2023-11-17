@@ -1,4 +1,4 @@
-![image](https://github.com/vinti8776/v_agarwal/assets/49437775/64e28b96-6d62-44fb-b090-77e8247f09ac)---
+---
 permalink: /
 title: "About"
 excerpt: "About me"
