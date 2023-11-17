@@ -18,26 +18,32 @@ reviewed journals with 10+ peer-reviewed publications and teaches a postgraduate
 
 Research Domain
 ======
-- Graph-based semi-supervised learning
-- Algorithm designs in limited labelled-data settings
-- Building knowledge graphs from multimodal data(image,text,speech)
-- Predictions by learning multi-relationships using graph spectral theory and graph-neural networks
+- Graph-based semi-supervised learning; Natural Language processing
+- Design algorithms or models in limited labelled-data settings
+- Recommender systems design for networked data
+- Knowledge graphs construction from multimodal data (image, text,speech, sensors)
+- Predictions by learning multi-relationships using graph spectral theory and graph neural networks
 
 
 Applications
 ======
-- COVID-19 Drug Purposing
-- Medical Image Analysis
-- Text Classification
-- Design of community health policy at scale
+- COVID-19 Drug repurposing
+![image](https://github.com/vinti8776/v_agarwal/assets/49437775/f3d99ddc-f14b-48f6-8c53-675996d75956)
+- Social health and Text analysis
+![image](https://github.com/vinti8776/v_agarwal/assets/49437775/fbcf00f4-50b4-4b1f-8f32-6055ebfd21c3)
+- Medical Imaging
+![image](https://github.com/vinti8776/v_agarwal/assets/49437775/2f355efe-5761-46df-88ee-facf6d29304c)
 
 Achievements
 ======
-- Co-principal investigator of MRFF project from CSIRO, Australia.
+- Co-principal investigator of MRFF project from CSIRO, Australia(Aug 2021 – Dec 2022)
 - Developed a website [CoviRx](www.covirx.org), curating a database of 7,817 FDA and TGI approved compounds.
 - Published articles in MDPI Data, PLOS One, Int J of Mol Sci., IEEE Big Data, IEEE ISBI in past 2 years.
+- Recently secured funding of 6.95L for WATCH pilot project from Department of Health Western Australia (Aug 2023- July 2024)
+![image](https://github.com/vinti8776/v_agarwal/assets/49437775/aacc7ff4-eb63-4487-a03c-a5934dbdecfd)
 
-Recent News
+
+<!--Recent News
 ======
 1. As a co-principal investigator of MRFF project from CSIRO, Australia, she, along with her team,
 successfully developed a web application [CoviRx](www.covirx.org), curating a database of 7,817 FDA
@@ -48,7 +54,7 @@ applying eight filters to assess the attributes required for the drug to be safe
 non-identifiable socio-economic determinants from publicly accessible resources and
 developing algorithms inspired by graph theory and machine learning to transform community health
 in Western Australia by understanding unmet needs of different populations and their
-interconnectedness. 
+interconnectedness. -->
 
 <!--Getting started
 ======
