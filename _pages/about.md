@@ -27,15 +27,12 @@ Research Domain
 
 Applications
 ======
-COVID-19 Drug Repurposing  |  Social Health and Text Analysis | Medical Imaging
-:-------------------------:|:-------------------------:|:----------------
-![Covid-19 Drug Repurposing](https://vinti8776.github.io/v_agarwal/images/coviddrug.png)  |  ![Social health and text analysis](https://vinti8776.github.io/v_agarwal/images/social.png) |  ![Medical Imaging](https://vinti8776.github.io/v_agarwal/images/medical.jpg)
-<!--figure>
-  <img src="https://vinti8776.github.io/v_agarwal/images/coviddrug.png" alt="Image 1" style="width:33%;">
-  <img src="https://vinti8776.github.io/v_agarwal/images/social.png" alt="Image 2" style="width:33%;">
-  <img src="https://vinti8776.github.io/v_agarwal/images/medical.jpg" alt="Image 3" style="width:33%;">
-  <figcaption>Caption</figcaption>
-</figure-->
+<figure>
+  <img src="https://vinti8776.github.io/v_agarwal/images/coviddrug.png" alt="Image 1" style="width:33%;"> &nbsp;&nbsp;
+  <img src="https://vinti8776.github.io/v_agarwal/images/social.png" alt="Image 2" style="width:33%;">&nbsp;&nbsp;
+  <img src="https://vinti8776.github.io/v_agarwal/images/medical.jpg" alt="Image 3" style="width:33%;">&nbsp;&nbsp;
+  <figcaption>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.COVID-19 Drug Repurposing; 2.Social Health and Text Analysis; 3. Medical Imaging</figcaption>
+</figure>
 
 
 Achievements
