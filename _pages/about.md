@@ -41,6 +41,7 @@ Achievements
 - Developed a website [CoviRx](www.covirx.org), curating a database of 7,817 FDA and TGI approved compounds.
 - Published articles in MDPI Data, PLOS One, Int J of Mol Sci., IEEE Big Data, IEEE ISBI in past 2 years.
 - Recently secured funding of 6.95L for WATCH pilot project from Department of Health Western Australia (Aug 2023- July 2024)
+  <br />
   [Media news](https://www.nature.com/articles/d44151-022-00115-4)
   <img src="https://vinti8776.github.io/v_agarwal/images/cover.png" style="width:40%;" >
   <br />
