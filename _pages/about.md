@@ -28,11 +28,11 @@ Research Domain
 Applications
 ======
 - COVID-19 Drug repurposing
-![image](https://github.com/vinti8776/v_agarwal/assets/49437775/f3d99ddc-f14b-48f6-8c53-675996d75956)
+![image](../images/coviddrug.png)
 - Social health and Text analysis
-![image](https://github.com/vinti8776/v_agarwal/assets/49437775/fbcf00f4-50b4-4b1f-8f32-6055ebfd21c3)
+![image](../images/social.jpg)
 - Medical Imaging
-![image](https://github.com/vinti8776/v_agarwal/assets/49437775/2f355efe-5761-46df-88ee-facf6d29304c)
+![image](../images/medical.jpg)
 
 Achievements
 ======
