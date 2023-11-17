@@ -1,4 +1,4 @@
----
+![image](https://github.com/vinti8776/v_agarwal/assets/49437775/64e28b96-6d62-44fb-b090-77e8247f09ac)---
 permalink: /
 title: "About"
 excerpt: "About me"
@@ -41,7 +41,12 @@ Achievements
 - Developed a website [CoviRx](www.covirx.org), curating a database of 7,817 FDA and TGI approved compounds.
 - Published articles in MDPI Data, PLOS One, Int J of Mol Sci., IEEE Big Data, IEEE ISBI in past 2 years.
 - Recently secured funding of 6.95L for WATCH pilot project from Department of Health Western Australia (Aug 2023- July 2024)
-![image](https://github.com/vinti8776/v_agarwal/assets/49437775/aacc7ff4-eb63-4487-a03c-a5934dbdecfd)
+  [Media news](https://www.nature.com/articles/d44151-022-00115-4)
+  <img src="https://vinti8776.github.io/v_agarwal/images/cover.png" style="width:40%;" >
+  <br />
+  
+CoviRx was picked up as Cover story: Data, Volume 7, Issue 11, Nov 2022 <br />
+<img src="https://vinti8776.github.io/v_agarwal/images/story.png" style="width:40%;" >
 
 
 <!--Recent News
