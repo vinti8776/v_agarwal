@@ -29,17 +29,9 @@ Applications
 ======
 <figure>
   <img src="https://vinti8776.github.io/v_agarwal/images/coviddrug.png" alt="Image 1" style="width:33%;">
-  <figcaption>COVID-19 Drug Repurposing</figcaption>
-</figure>
-
-<figure>
   <img src="https://vinti8776.github.io/v_agarwal/images/social.png" alt="Image 2" style="width:33%;">
-  <figcaption>Social Health and Text Analysis</figcaption>
-</figure>
-
-<figure>
   <img src="https://vinti8776.github.io/v_agarwal/images/medical.jpg" alt="Image 3" style="width:33%;">
-  <figcaption>Medical Imaging</figcaption>
+  <figcaption>Caption</figcaption>
 </figure>
 
 
