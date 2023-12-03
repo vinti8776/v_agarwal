@@ -14,7 +14,7 @@ location: "Pilani, Rajasthan"
 
 **Time**: TThS 11-11:50am
 
-Lecture notes can be found [here](https://vinti8776.github.io/graph-mining/)
+Course material can be found [here](https://vinti8776.github.io/graph-mining/)
 
 Do You Know?
 ======
