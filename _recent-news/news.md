@@ -4,4 +4,4 @@ collection: recent-news
 permalink: /recent-news
 ---
 
-Your Content here
+You can write your content here
