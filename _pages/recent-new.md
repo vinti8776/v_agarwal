@@ -4,4 +4,4 @@ title: "Recent News"
 author_profile: true
 ---
 
-Your content goes here
+You can write the content on this page
