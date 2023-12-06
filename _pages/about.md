@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 Vinti Agarwal is an assistant professor in the Department of Computer Science and Information Systems at
-BITS Pilani and leads a GraphAI research group at BITS Pilani, India. She has 4+ years teaching/research
-experience and has co/supervised 10+ undergraduate, postgraduate and PhD students at NTNU Norway and
+BITS Pilani and leads a GraphAI research group at BITS Pilani, India. Prior to this, She worked as postdoctoral researcher at Norwegian University of Science and Technology (NTNU). She completed Ph.D. in Computer Science from the JawaharLal Nehru University, New Delhi, India and has 7+ years teaching/research
+experience and has co/supervised 25+ undergraduate, postgraduate and PhD students at NTNU Norway and
 BITS Pilani. Her research expertise lies in modelling complex data relationships into graphs and using machine
 learning for predictions or discovering new patterns in data coming from a variety of sources, e.g., social
 networks, drug repurposing, social determinants of health (SDH), etc. She has published widely in peer-
