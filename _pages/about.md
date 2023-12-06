@@ -19,7 +19,7 @@ reviewed journals with 10+ peer-reviewed publications and teaches a postgraduate
 
 Research Domain
 ======
-- Graph-based semi-supervised learning
+- Graph-based semi-supervised learning; LLMs & graph learning
 - Design algorithms or models in limited labelled-data settings; Applications in Natural Language processing, image segmentation/classification
 - Recommender systems design for networked data
 - Knowledge graphs construction from multimodal data (image, text, speech, sensors)
