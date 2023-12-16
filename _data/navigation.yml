@@ -14,6 +14,9 @@ main:
 
   - title: "Recent News"
     url: /recent-news
+
+  - title: "Research Positons"
+    url: /research-positions
        
  # - title: "Portfolio"
  #    url: /portfolio/
