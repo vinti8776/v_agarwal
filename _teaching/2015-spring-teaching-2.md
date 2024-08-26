@@ -1,10 +1,10 @@
 ---
-title: "CS F426: Graph Mining (Fall 2023,BITS Pilani)"
+title: "CS F426: Graph Mining (Fall 2024,BITS Pilani)"
 collection: teaching
 type: "Undergraduate/Post-Graduate Course"
 permalink: /teaching/graph-mining
 venue: "BITS Pilani, CSIS"
-date: 2023-10-31
+date: 2024-10-31
 location: "Pilani, Rajasthan"
 ---
 
@@ -12,7 +12,7 @@ location: "Pilani, Rajasthan"
 
 **Course designer**: Vinti Agarwal
 
-**Time**: TThS 11-11:50am
+**Time**: MWF 3:00-3:50pm
 
 Course material can be found [here](https://vinti8776.github.io/graph-mining/)
 
