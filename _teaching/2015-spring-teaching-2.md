@@ -12,7 +12,7 @@ location: "Pilani, Rajasthan"
 
 **Course designer**: Vinti Agarwal
 
-**Time**: MWF 3:00-3:50pm
+**Time**: Thursday 5:00 PM - 6:50 PM 
 
 Course material can be found [here](https://vinti8776.github.io/graph-mining/)
 
