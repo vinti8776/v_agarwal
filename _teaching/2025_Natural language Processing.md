@@ -1,10 +1,10 @@
 ---
-title: "CS F429: Natrual Language Processing(Summer 2025, BITS Pilani)"
+title: "CS F429: Natrual Language Processing(Fall 2025, BITS Pilani)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/information-retrieval
 venue: "BITS Pilani, CSIS"
-date: 2024-08-01
+date: 2025-08-01
 location: "Pilani, Rajasthan"
 ---
 
